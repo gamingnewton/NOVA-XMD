@@ -1,8 +1,8 @@
 {
-  "name": "NOVA-XMD",
+  "name": "GAMING-NEWTON-AI",
   "description": "Javascript WhatsApp bot made by novaxmd",
   "logo": "https://files.catbox.moe/dqvgr4.jpg",
-  "keywords": ["NOVA-XMD"],
+  "keywords": ["GAMING-NEWTON-AI"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -14,7 +14,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "NOVA-XMD"
+      "value": "GAMING-NEWTON-AI"
     },
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -29,7 +29,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
@@ -79,7 +79,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "NOVA-XMD"
+      "value": "GAMING-NEWTON-AI"
     },
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
